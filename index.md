@@ -1,5 +1,5 @@
 ---
-title: ikms
+title: HOME
 ---
 
 # てすとですよ
