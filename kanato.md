@@ -33,11 +33,9 @@ ver.2.0.6  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 
 最終更新: 2019/11/25
 
-[<img alt="Download" src="assets/img/download.svg" width="50">](https://drive.google.com/open?id=1pdzv-3hz29QlTpVsw3j4Hop-Qn-G4xwr){:target="_blank"}
-
-**ダウンロード**
-
-(GoogleDrive)
+<ul class="downloads">
+<a href="{{ site.downloadurl_kanato }}"> <strong>ダウンロード</strong> Google Drive</a>
+</ul>
 
 **​必ず、当サイト内の[「データ利用規約」](rule)をご覧ください。二次配布はご遠慮ください。**
 
