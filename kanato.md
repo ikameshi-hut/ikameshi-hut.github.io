@@ -5,6 +5,16 @@ title: 神奈東高速鉄道
 
 # 神奈東高速鉄道
 
+![pr1](assets/img/kanato/pr/1.png)​
+![pr2](assets/img/kanato/pr/katsuta.png)
+![pr3](assets/img/kanato/pr/asahiimajuku-43000_2-night.webp)
+![pr4](assets/img/kanato/pr/minamiseya.png)
+
+![pr5](assets/img/kanato/pr/2.png)
+
+![pr6](assets/img/kanato/pr/3.png)
+![pr7](assets/img/kanato/pr/4.png)
+
 ## 目次
 
 
