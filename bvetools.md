@@ -28,7 +28,6 @@ title: BVEツール
 
 
 **ダウンロード**
-
 [<img alt="Download" src="assets/img/download.svg" width="50">](https://drive.google.com/open?id=1pdzv-3hz29QlTpVsw3j4Hop-Qn-G4xwr){:target="_blank"}
 ​
 
