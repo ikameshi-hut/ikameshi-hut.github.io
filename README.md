@@ -1,10 +1,8 @@
-# ikameshi-hut.github.io
-ikmsのサイトになるかもしれない
+# {{site.url}}
+いかめし研究所のサイト
 
 ---
 
-minimal theme
+Based on GitHub Pages and Jekyll Theme "The Minimal theme"
 
 https://github.com/pages-themes/minimal
-
-上記参照
