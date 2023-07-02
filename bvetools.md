@@ -27,7 +27,7 @@ title: BVEツール
 ​(狭軌(1067mm)で最適な解が算出されるように設計しております。標準軌(1435mm)へは最適化しておりません。)
 
 ​
-[ダウンロード](https://drive.google.com/open?id=1pdzv-3hz29QlTpVsw3j4Hop-Qn-G4xwr){:target="_blank"}{.button .hover}
+[ダウンロード](https://drive.google.com/open?id=1pdzv-3hz29QlTpVsw3j4Hop-Qn-G4xwr){:target="_blank" .button .hover}
 
 [<img alt="Download" src="assets/img/download.svg" width="30">](https://drive.google.com/open?id=1pdzv-3hz29QlTpVsw3j4Hop-Qn-G4xwr){:target="_blank"}
 ​
@@ -39,4 +39,4 @@ title: BVEツール
 
 Java Runtime environment をダウンロード・インストールしてください。
 
-https://java.com/ja/download/
+[https://java.com/ja/download/](https://java.com/ja/download/){:target="_blank"}

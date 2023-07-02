@@ -74,7 +74,7 @@ ver.2.0.6  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 
 通勤特急・・・ＪＲE531系    Tc E230-20氏のサイト・・・[Tc's Development room](https://tce230-20.wixsite.com/tcdevroom){:target="_blank"}
   ┗━ E531系の運転にあたって以下のデータが必要です。同様にダウンロードしてください。
-       ＪＲ線車両パック Rock_On氏(みかんごーごー氏)のサイト→ https://github.com/mikangogo/JRTrainPack/releases{:target="_blank"}
+       ＪＲ線車両パック Rock_On氏(みかんごーごー氏)のサイト(GitHubリポジトリ)→ [https://github.com/mikangogo/JRTrainPack/releases](https://github.com/mikangogo/JRTrainPack/releases){:target="_blank"}
        ＪＲE501系     Kazuma氏のサイト→ [Kazuma's BVE Website](https://kazmasbve.soregashi.com/){:target="_blank"}
 
 相模原山間線 ・・・ＪＲ 205系5000番台総武車    (武蔵野線)    舞姫氏のサイト・・・ **閉鎖してしまったので、別の列車を**
