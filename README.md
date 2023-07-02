@@ -2,7 +2,7 @@
 いかめし研究所のサイト
 
 
-ikameshi-hut.github.io
+https://ikameshi-hut.github.io
 
 ---
 
