@@ -64,6 +64,15 @@ ver.2.0.6  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 
 以下のデータをDLしてください。車両の指定作業は不要です。
 
+|  シナリオ  |  列車名  |  ダウンロード先  |  備考  |
+| ---- | ---- | ---- | ---- |
+|  おだいば本線<br>各駅停車  |  東武9050系  |  vertah氏のサイト<br>[vertah's warehouse](http://vertah.sakura.ne.jp/){:target="_blank"} (HTTPS接続では接続できません。HTTPで接続してください。)  |    |
+|  おだいば本線<br>通勤急行  |  西武6000系  |  shallow-filed氏のサイト<br>[循環車線](https://sigf.sakura.ne.jp/){:target="_blank"}  |    |
+|  おだいば本線<br>急行  |  東急9000系  |  shallow-filed氏のサイト<br>[循環車線](https://sigf.sakura.ne.jp/){:target="_blank"}  |    |
+|  おだいば本線<br>通勤特急  |  ＪＲE531系  |  Tc E230-20氏のサイト<br>[Tc's Development room](https://tce230-20.wixsite.com/tcdevroom){:target="_blank"}  |  以下のデータも必要<br>ＪＲ線車両パック<br>Rock_On氏(みかんごーごー氏)のサイト(GitHubリポジトリ)<br>[https://github.com/mikangogo/JRTrainPack/releases](https://github.com/mikangogo/JRTrainPack/releases){:target="_blank"}<br>ＪＲE501系<br>Kazuma氏のサイト<br>[Kazuma's BVE Website](https://kazmasbve.soregashi.com/){:target="_blank"}  |
+|  相模原山間線  |  ＪＲ 205系5000番台総武車    (武蔵野線)  |  舞姫氏のサイト<br>柏鉄道フォーラム  |  **閉鎖してしまったので、別の列車を指定してください**  |
+|  特急  |  ＪＲE257系500番台  |    |  **閉鎖してしまったので、別の列車を指定してください**  |
+
 
 - 各駅停車・・・東武9050系    vertah氏のサイト・・・・・[vertah's warehouse](http://vertah.sakura.ne.jp/){:target="_blank"} (HTTPS接続では接続できません。HTTPで接続してください。)
 
@@ -111,11 +120,11 @@ ver.2.0.6  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 
 神奈川西部の通勤輸送と観光輸送が主な目的です。
 
-   **相模原山間線高尾支線**
+**相模原山間線高尾支線**
 
-   若柳駅と高尾山のふもと、新高尾駅を結ぶ路線です。相模原山間線の支線扱いで、同線の一部として扱われます。
+若柳駅と高尾山のふもと、新高尾駅を結ぶ路線です。相模原山間線の支線扱いで、同線の一部として扱われます。
 
-   特急のみ走ります。
+特急のみ走ります。
 
 
 **桂橋支線**
