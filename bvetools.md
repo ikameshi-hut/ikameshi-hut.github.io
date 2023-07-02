@@ -27,9 +27,9 @@ title: BVEツール
 ​(狭軌(1067mm)で最適な解が算出されるように設計しております。標準軌(1435mm)へは最適化しておりません。)
 
 
-**ダウンロード**
 [<img alt="Download" src="assets/img/download.svg" width="50">](https://drive.google.com/open?id=1pdzv-3hz29QlTpVsw3j4Hop-Qn-G4xwr){:target="_blank"}
-​
+
+**ダウンロード**​
 
 (Google Drive)
 
