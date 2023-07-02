@@ -2,8 +2,9 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+lang: ja-JP
 title: いかめし研究所
-description: なんだ
+description: BVE Trainsim 5 用の路線データ 神奈東高速鉄道 を公開しています。 くわしくは 「BVE 神奈東高速鉄道」ページ へ。 曲線通過速度計算機は 「BVE Tools」ページ へ。
 logo: /assets/img/icon.svg
 
 url: ikameshi-hut.github.io
