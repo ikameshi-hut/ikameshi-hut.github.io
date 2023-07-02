@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HOME
+title: お問い合わせ
 ---
 
 # お問い合わせ
