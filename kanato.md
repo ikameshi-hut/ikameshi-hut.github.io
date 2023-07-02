@@ -73,25 +73,6 @@ ver.2.0.6  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 |  相模原山間線  |  ＪＲ 205系5000番台総武車    (武蔵野線)  |  柏鉄道フォーラム  |  **閉鎖してしまったので、別の列車を指定してください**  |
 |  特急  |  ＪＲE257系500番台  |  柏鉄道フォーラム  |  **閉鎖してしまったので、別の列車を指定してください**  |
 
-
-- 各駅停車・・・東武9050系    vertah氏のサイト・・・・・[vertah's warehouse](http://vertah.sakura.ne.jp/){:target="_blank"} (HTTPS接続では接続できません。HTTPで接続してください。)
-
-- 通勤急行・・・西武6000系    shallow-filed氏のサイト・・[循環車線](https://sigf.sakura.ne.jp/){:target="_blank"}
-
--   急    行  ・・・東急9000系    shallow-filed氏のサイト・・[循環車線](https://sigf.sakura.ne.jp/){:target="_blank"}
-
-- 通勤特急・・・ＪＲE531系    Tc E230-20氏のサイト・・・[Tc's Development room](https://tce230-20.wixsite.com/tcdevroom){:target="_blank"}
-
-  - E531系の運転にあたって以下のデータが必要です。同様にダウンロードしてください。
-
-  - ＪＲ線車両パック Rock_On氏(みかんごーごー氏)のサイト(GitHubリポジトリ)→ [https://github.com/mikangogo/JRTrainPack/releases](https://github.com/mikangogo/JRTrainPack/releases){:target="_blank"}
-
-  - ＪＲE501系     Kazuma氏のサイト→ [Kazuma's BVE Website](https://kazmasbve.soregashi.com/){:target="_blank"}
-
-- 相模原山間線 ・・・ＪＲ 205系5000番台総武車    (武蔵野線)    舞姫氏のサイト・・・ **閉鎖してしまったので、別の列車を**
-
-- 特       急     ・・・ＪＲE257系500番台                 (房総特急)    舞姫氏のサイト・・・ **指定してください。**
-
 ​
 ### 運転指南
 
