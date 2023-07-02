@@ -10,7 +10,7 @@ title: お問い合わせ
 
 以下のメールアドレスまで。
 
- ![MailAddress](assets/img/mail.bmp)​
+![MailAddress](assets/img/mail.bmp)​
 
 スパムメール防止の為、画像で表示しています。お手数ですが、手打ちでお願いします。
 
