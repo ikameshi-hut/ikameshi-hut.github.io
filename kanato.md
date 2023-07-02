@@ -27,7 +27,7 @@ ver.2.0.6  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 
 最終更新: 2019/11/25
 
-​(UNDER CONSTRUCTION)
+[![Download](assets/img/download.svg)​](https://drive.google.com/open?id=1q5iXL538YVUviFDZ3QXPqrNDbzB_vYMj){:target="_blank"}
 
 (GoogleDrive)
 
@@ -39,7 +39,7 @@ ver.2.0.6  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 
 * \_**BVE 5.6推奨** (5.7だと一部のストラクチャが正常に描画されません。)\_
 
-* **要 樽ﾓﾄ氏作[「nagoya_common」](https://moffbarrel.stars.ne.jp/)**
+* **要 樽ﾓﾄ氏作[「nagoya_common」](https://moffbarrel.stars.ne.jp/)**{:target="_blank"}
 
 \_※運転の際は、ほかのアプリケーションの終了、BVEの再起動をお勧めします。\_
 
@@ -63,16 +63,16 @@ ver.2.0.6  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 以下のデータをDLしてください。車両の指定作業は不要です。
 
 
-各駅停車・・・東武9050系    vertah氏のサイト・・・・・[vertah's warehouse](http://vertah.sakura.ne.jp/) (HTTPS接続では接続できません。HTTPで接続してください。)
+各駅停車・・・東武9050系    vertah氏のサイト・・・・・[vertah's warehouse](http://vertah.sakura.ne.jp/){:target="_blank"} (HTTPS接続では接続できません。HTTPで接続してください。)
 
-通勤急行・・・西武6000系    shallow-filed氏のサイト・・[循環車線](https://sigf.sakura.ne.jp/)
+通勤急行・・・西武6000系    shallow-filed氏のサイト・・[循環車線](https://sigf.sakura.ne.jp/){:target="_blank"}
 
-  急    行  ・・・東急9000系    shallow-filed氏のサイト・・[循環車線](https://sigf.sakura.ne.jp/)
+  急    行  ・・・東急9000系    shallow-filed氏のサイト・・[循環車線](https://sigf.sakura.ne.jp/){:target="_blank"}
 
-通勤特急・・・ＪＲE531系    Tc E230-20氏のサイト・・・[Tc's Development room](https://tce230-20.wixsite.com/tcdevroom)
+通勤特急・・・ＪＲE531系    Tc E230-20氏のサイト・・・[Tc's Development room](https://tce230-20.wixsite.com/tcdevroom){:target="_blank"}
   ┗━ E531系の運転にあたって以下のデータが必要です。同様にダウンロードしてください。
-       ＪＲ線車両パック Rock_On氏(みかんごーごー氏)のサイト→ https://github.com/mikangogo/JRTrainPack/releases
-       ＪＲE501系     Kazuma氏のサイト→ [Kazuma's BVE Website](https://kazmasbve.soregashi.com/)
+       ＪＲ線車両パック Rock_On氏(みかんごーごー氏)のサイト→ https://github.com/mikangogo/JRTrainPack/releases{:target="_blank"}
+       ＪＲE501系     Kazuma氏のサイト→ [Kazuma's BVE Website](https://kazmasbve.soregashi.com/){:target="_blank"}
 
 相模原山間線 ・・・ＪＲ 205系5000番台総武車    (武蔵野線)    舞姫氏のサイト・・・ **閉鎖してしまったので、別の列車を**
 
