@@ -21,4 +21,4 @@ title: お問い合わせ
 
 **アカウントは残してありますが、ご連絡頂いても返信できません。メールアドレスをご利用ください。**
 
-https://twitter.com/ikameshi_bve
+[https://twitter.com/ikameshi_bve](https://twitter.com/ikameshi_bve)
