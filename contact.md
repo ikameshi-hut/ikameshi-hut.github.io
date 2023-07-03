@@ -23,7 +23,7 @@ title: お問い合わせ・その他
 
 [https://twitter.com/ikameshi_bve](https://twitter.com/ikameshi_bve)
 
-
+---
 
 # プライバシーポリシー
 
