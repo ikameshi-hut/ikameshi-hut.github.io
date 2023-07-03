@@ -45,7 +45,7 @@ ver.2.0.7  **神奈東高速鉄道 神奈東おだいば本線  (全線) ・ 神
 
 * **BVE 5.6推奨** (5.7だと一部のストラクチャが正常に描画されません。)
 
-* **要 樽ﾓﾄ氏作[「nagoya_common」](https://moffbarrel.stars.ne.jp/)**{:target="_blank"}
+* **要 樽ﾓﾄ氏作[「nagoya_common」](https://moffbarrel.stars.ne.jp/){:target="_blank"}**
 
 ※運転の際は、ほかのアプリケーションの終了、BVEの再起動をお勧めします。
 ​
