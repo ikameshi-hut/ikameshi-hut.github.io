@@ -24,15 +24,13 @@ title: BVEツール
 
 ということを考える必要がなくなります。
 
-​(狭軌(1067mm)で最適な解が算出されるように設計しております。標準軌(1435mm)へは最適化しておりません。)
+​**狭軌(1067mm)で最適な解が算出されるように設計しております。標準軌(1435mm)へは最適化しておりません。**
 
 <ul class="downloads">
 <a href="{{ site.downloadurl_curve }}" target="_blank" rel="noopener noreferrer"> <strong>ダウンロード</strong> GitHub</a>
 </ul>
 
 
-動作にはJavaが必要です。起動しても「Javaがない」という旨の英文エラーが表示される場合、下記URLから
-
-Java Runtime environment をダウンロード・インストールしてください。
+動作にはJavaが必要です。起動しても「Javaがない」という旨の英文エラーが表示される場合、下記URLから Java Runtime environment をダウンロード・インストールしてください。
 
 [https://java.com/ja/download/](https://java.com/ja/download/){:target="_blank"}
