@@ -12,6 +12,8 @@ title: 神奈東高速鉄道
 
 ![pr5](assets/img/kanato/pr/2.png)
 
+**150km/hでの運転は、現在公式では対応していません。適切な車両を指定するなどで対処願います。**
+
 ![pr6](assets/img/kanato/pr/3.png)
 ![pr7](assets/img/kanato/pr/4.png)
 
